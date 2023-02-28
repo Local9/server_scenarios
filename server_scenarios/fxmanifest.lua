@@ -10,9 +10,8 @@ files {
 	'relationships.dat'
 }
 
-data_file 'FIVEM_LOVES_YOU_4B38E96CC036038F' 'events.meta'
+data_file 'EVENTS_OVERRIDE_FILE' 'events.meta'
 
 
 server_script 'server.lua'
 client_script 'client.lua'
-
